@@ -46,3 +46,4 @@ $ node index.js
 
 Visit http://localhost:8080 in your browser, and click the link to login GitHub.
 
+# node-oauth-demo
